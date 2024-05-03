@@ -30,7 +30,7 @@ I am a passionate beome a DevOps Engineer, driven by a curiosity for technology 
 
  ## 🏆 Achievements
 
-- 🌟 https://www.linkedin.com/feed/update/urn:li:activity:7092149789571579904/
+- 🌟 
 
 
 ## 📬 Get in Touch
