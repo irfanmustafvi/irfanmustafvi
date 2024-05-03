@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Irfan! 👋
 
-I am a passionate beome a DevOps Engineer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate to beome a DevOps Engineer, driven by a curiosity for technology and a love for exploring. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![irfanmustafvi's Stats](https://github-readme-stats.vercel.app/api?username=irfanmustafvi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
