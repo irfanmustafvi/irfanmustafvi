@@ -30,7 +30,7 @@ I am a passionate beome a DevOps Engineer, driven by a curiosity for technology 
 
  ## 🏆 Achievements
 
-- 🌟 https://catalog-education.oracle.com/pls/certview/sharebadge?id=99E26C422365B1B954C1259D44D9CD883FD929E23057F4511C0C3397DC19BD41
+- 🌟 https://www.linkedin.com/feed/update/urn:li:activity:7092149789571579904/
 
 
 ## 📬 Get in Touch
