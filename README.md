@@ -14,10 +14,12 @@ I am a passionate to beome a DevOps Engineer, driven by a curiosity for technolo
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+)
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)(![image](https://github.com/irfanmustafvi/irfanmustafvi/assets/101461077/cd55b10f-ce9d-4a69-b17f-81998ab41e3f)
+
 
 ## 🌱 Currently Exploring
 
