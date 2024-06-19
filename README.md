@@ -18,7 +18,7 @@ I am a passionate to beome a DevOps Engineer, driven by a curiosity for technolo
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)(https://5.imimg.com/data5/QN/JH/GLADMIN-13467796/linux-administration-150x150.png)
 
 
 ## 🌱 Currently Exploring
