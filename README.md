@@ -18,7 +18,7 @@ I am a passionate to beome a DevOps Engineer, driven by a curiosity for technolo
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)(![image](https://github.com/irfanmustafvi/irfanmustafvi/assets/101461077/cd55b10f-ce9d-4a69-b17f-81998ab41e3f)
+[![My Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
