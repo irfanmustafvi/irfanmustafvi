@@ -13,8 +13,7 @@ I am a passionate to beome a DevOps Engineer, driven by a curiosity for technolo
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-)
+- [(https://irfanmustafvi.hashnode.dev/master-linux-bash-scripting-for-enhanced-automation)]
 
 
 ## Tech Stack
@@ -37,11 +36,11 @@ I am a passionate to beome a DevOps Engineer, driven by a curiosity for technolo
 
 ## 📬 Get in Touch
 
-Email: irfanabdullah7112@gmail.com
-LinkedIn: https://www.linkedin.com/in/meetirfannow/
+Email: irfan.4831@gmail.com
+LinkedIn: https://www.linkedin.com/in/irfanmustafvi/
 Facebook: https://www.facebook.com/meetirfannow/
 Instagram: https://www.instagram.com/meetirfannow/
-Twitter: https://twitter.com/meetirfannow/
+Twitter: https://twitter.com/Mirfanmustafvi/
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
