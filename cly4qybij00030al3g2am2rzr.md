@@ -1,8 +1,8 @@
 ---
-title: "Learning Cloud Practitioner and Well-Architected Principles in Week 2"
+title: "Learning Cloud Practitioner and Well-Architected Principles | Session 2"
 datePublished: Tue Jul 02 2024 18:33:01 GMT+0000 (Coordinated Universal Time)
 cuid: cly4qybij00030al3g2am2rzr
-slug: learning-cloud-practitioner-and-well-architected-principles-in-week-2
+slug: learning-cloud-practitioner-and-well-architected-principles-session-2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719944802674/e15af2b3-d754-4f43-ad92-e80946e57ab2.jpeg
 tags: cloud, aws, cloud-computing, besaprogram, besa
 
