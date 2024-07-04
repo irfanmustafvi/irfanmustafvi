@@ -1,9 +1,8 @@
 ---
-title: "Path to Becoming a Solution Architect 
-Part-1"
+title: "Path to Becoming a Solution Architect | Session 1"
 datePublished: Mon Jul 01 2024 20:14:46 GMT+0000 (Coordinated Universal Time)
 cuid: cly3f5bcv000809jz7kxb43yu
-slug: path-to-becoming-a-solution-architect-part-1
+slug: path-to-becoming-a-solution-architect-session-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719861058005/bd52da6b-d4ee-4269-a0cd-91d87d959e3e.jpeg
 tags: aws, aws-certified-solutions-architect-associate, solutionarchitect
 
