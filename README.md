@@ -1,46 +1,55 @@
-# Hi, I'm Muhammad Irfan! 👋
+![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/DevOps%20Banner.jfif)
+
+# Hi there 👋, I am Muhammad Irfan! 
 
 I am a passionate to beome a DevOps Engineer, driven by a curiosity for technology and a love for exploring. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![irfanmustafvi's Stats](https://github-readme-stats.vercel.app/api?username=irfanmustafvi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<p align="center">
+	<a href="https://www.linkedin.com/in/irfanmustafvi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+  <a href="https://github.com/irfanmustafvi"><img src="https://img.shields.io/github/followers/irfanmustafvi.svg?label=GitHub&style=social" alt="GitHub"></a>  
+  <a href="https://twitter.com/Mirfanmustafvi"><img src="https://img.shields.io/twitter/follow/Mirfanmustafvi?label=@Mirfanmustafvi&style=social" alt="Twitter"></a> 
+  <a href="https://hashnode.com/@irfanmustafvi"><img src="https://img.shields.io/badge/Hashnode--_.svg?style=social&logo=hashnode" alt="Hashnode"></a>
+ </p>
+  
 
 ## 🚀 About Me
 
-- 🔭 I'm currently enhancing my DevOps Skills and pursue for AWS Cloud Computing Certifications.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 As Linux System Administrator, my objective is to utilize my technical expertise and experience to manage and maintain a robust, secure, and scalable Linux infrastructure, while continuously optimizing its performance. I aim to provide high-quality technical support and troubleshoot complex issues promptly and effectively. My goal is to contribute to the success of the organization by implementing best practices in Linux administration, security, and disaster recovery, and by staying current with industry developments and new technologies. I am dedicated to fostering a positive and collaborative work environment and mentoring junior administrators. I'm currently enhancing my DevOps Skills and pursue for AWS Cloud Computing Certifications.
+- 📝 I am passionate to learn more aboute Amazon Web Services.  
+- 🌐 Proud to be member of DevOps Community with [Babar Zahoor](https://babarzahoor.com/) And exploring on [YouTube](https://www.youtube.com/babarzahoor)
+- ✍️ I started my Bloging journey at [Hashnode](https://hashnode.com/@irfanmustafvi) to gearing up and share valuable insights with the global tech community.
 
-## My Articles
-- [(https://irfanmustafvi.hashnode.dev/master-linux-bash-scripting-for-enhanced-automation)]
+## My Articles On
+- [Hashnode](https://hashnode.com/@irfanmustafvi)
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)
+
 
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning DevOps Engineering and AWS Cloud Computing
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Practising my learning with Whizlabs
+  - Navigating the insights in writing on Hashnode.com
+  - Building applications 
+  - Diving into scalable database management
 
  ## 🏆 Achievements
 
 - 🌟 
 
 
-## 📬 Get in Touch
+## 📬 Get in Touch 
 
 Email: irfan.4831@gmail.com
 LinkedIn: https://www.linkedin.com/in/irfanmustafvi/
+Twitter: https://twitter.com/Mirfanmustafvi/
 Facebook: https://www.facebook.com/meetirfannow/
 Instagram: https://www.instagram.com/meetirfannow/
-Twitter: https://twitter.com/Mirfanmustafvi/
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
