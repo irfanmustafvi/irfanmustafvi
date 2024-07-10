@@ -1,4 +1,5 @@
-![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/DevOps%20Banner.jfif)
+![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/1001x492%20Banner%20for%20GitHub.jpg)
+
 
 # Hi there 👋, I am Muhammad Irfan! 
 
