@@ -33,10 +33,11 @@ I am a passionate to beome a DevOps Engineer, driven by a curiosity for technolo
 ## 🌱 Currently Exploring
 
 - 🚀 Learning DevOps Engineering and AWS Cloud Computing
-  - Practising my learning with Whizlabs
+  - Skilling-Up and Hands-On with Whizlabs
   - Navigating the insights in writing on Hashnode.com
-  - Building applications 
-  - Diving into scalable database management
+  - Learnt and Practising the Linux OS in local environment
+  - Started the Python
+  - Learning Docker, Docker-Compose & Docker builds process 
 
  ## 🏆 Achievements
 
