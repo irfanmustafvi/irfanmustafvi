@@ -46,10 +46,10 @@ I am a passionate to beome a DevOps Engineer, driven by a curiosity for technolo
 
 ## 📬 Get in Touch 
 
-Email: irfan.4831@gmail.com
-LinkedIn: https://www.linkedin.com/in/irfanmustafvi/
-Twitter: https://twitter.com/Mirfanmustafvi/
-Facebook: https://www.facebook.com/meetirfannow/
+Email: irfan.4831@gmail.com \
+LinkedIn: https://www.linkedin.com/in/irfanmustafvi/ \
+Twitter: https://twitter.com/Mirfanmustafvi/ \
+Facebook: https://www.facebook.com/meetirfannow/ \
 Instagram: https://www.instagram.com/meetirfannow/
 
 
