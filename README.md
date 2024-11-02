@@ -1,9 +1,8 @@
 ![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/1001x492%20Banner%20for%20GitHub.jpg)
 
 
-# Hi there 👋, I am Muhammad Irfan! 
-
-I am a passionate to beome a DevOps Engineer, driven by a curiosity for technology and a love for exploring. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+👋 Hi, I’m Muhammad Irfan!
+A DevOps enthusiast and Linux administrator, I'm dedicated to creating robust, scalable, and efficient cloud infrastructure solutions. My GitHub features projects that dive into cloud technologies, automation, CI/CD, and scripting to tackle real-world challenges in system management and development.
 
 ![irfanmustafvi's Stats](https://github-readme-stats.vercel.app/api?username=irfanmustafvi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -17,10 +16,15 @@ I am a passionate to beome a DevOps Engineer, driven by a curiosity for technolo
 
 ## 🚀 About Me
 
-- 🔭 As Linux System Administrator, my objective is to utilize my technical expertise and experience to manage and maintain a robust, secure, and scalable Linux infrastructure, while continuously optimizing its performance. I aim to provide high-quality technical support and troubleshoot complex issues promptly and effectively. My goal is to contribute to the success of the organization by implementing best practices in Linux administration, security, and disaster recovery, and by staying current with industry developments and new technologies. I am dedicated to fostering a positive and collaborative work environment and mentoring junior administrators. I'm currently enhancing my DevOps Skills and pursue for AWS Cloud Computing Certifications.
-- 📝 I am passionate to learn more aboute Amazon Web Services.  
+A DevOps enthusiast and Linux administrator, I'm dedicated to creating robust, scalable, and efficient cloud infrastructure solutions. My GitHub features projects that dive into cloud technologies, automation, CI/CD, and scripting to tackle real-world challenges in system management and development.
+
+💡 Currently Exploring: AWS, Docker, and Python to deepen my DevOps toolkit. I’m passionate about sharing knowledge and contributing to open-source projects that make tech accessible and efficient.
+
+Let’s connect, collaborate, and build solutions together!
+- 📝 I am passionate to learn more aboute ewmerging techs.  
 - 🌐 Proud to be member of DevOps Community with [Babar Zahoor](https://babarzahoor.com/) And exploring on [YouTube](https://www.youtube.com/babarzahoor)
 - ✍️ I started my Bloging journey at [Hashnode](https://hashnode.com/@irfanmustafvi) to gearing up and share valuable insights with the global tech community.
+- 
 
 ## My Articles On
 - [Hashnode](https://hashnode.com/@irfanmustafvi)
