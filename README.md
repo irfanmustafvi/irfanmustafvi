@@ -17,15 +17,18 @@
 
 ## 🚀 About Me
 
-As Linux Administrator | AWS enthusiast | Aspiring DevOps engineer. I'm dedicated to creating robust, scalable, and efficient cloud infrastructure solutions. My GitHub features projects that dive into cloud technologies, automation, CI/CD, and scripting to tackle real-world challenges in system management and development.
+I am passionate about the transformative power of Linux, DevOps, and cloud technologies. With a background in system administration, I’m on a journey to master cloud infrastructure, automation, and containerization. On my GitHub, easy to find projects where I explore automation, AWS, CI/CD, and scripting to tackle real-world challenges in system management and development.
 
 💡 Currently Exploring: AWS, Docker, and Python to deepen my DevOps toolkit. I’m passionate about sharing knowledge and contributing to open-source projects that make tech accessible and efficient.
+
+
+
 
 Let’s connect, collaborate, and build solutions together!
 - 📝 I am passionate to learn more aboute ewmerging techs.  
 - 🌐 Proud to be member of DevOps Community with [Babar Zahoor](https://babarzahoor.com/) And exploring on [YouTube](https://www.youtube.com/babarzahoor)
 - ✍️ I started my Bloging journey at [Hashnode](https://hashnode.com/@irfanmustafvi) to gearing up and share valuable insights with the global tech community.
-- 
+  
 
 ## My Articles On
 - [Hashnode](https://hashnode.com/@irfanmustafvi)
