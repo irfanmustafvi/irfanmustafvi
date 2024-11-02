@@ -1,4 +1,5 @@
-👋 Hi, I’m Muhammad Irfan!
+<h1>👋 Hi, I’m Muhammad Irfan!</h1>
+
 ![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/1001x492%20Banner%20for%20GitHub.jpg)
 
 
