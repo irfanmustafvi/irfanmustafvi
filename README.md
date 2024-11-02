@@ -1,4 +1,5 @@
 <h1>👋 Hi, I’m Muhammad Irfan!</h1>
+<h3> Linux administrator | AWS Enthusiast | Aspiring DevOps Engineer | Blog Writer<h3/>
 
 ![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/1001x492%20Banner%20for%20GitHub.jpg)
 
@@ -16,7 +17,7 @@
 
 ## 🚀 About Me
 
-A DevOps enthusiast and Linux administrator, I'm dedicated to creating robust, scalable, and efficient cloud infrastructure solutions. My GitHub features projects that dive into cloud technologies, automation, CI/CD, and scripting to tackle real-world challenges in system management and development.
+As Linux Administrator | AWS enthusiast | Aspiring DevOps engineer. I'm dedicated to creating robust, scalable, and efficient cloud infrastructure solutions. My GitHub features projects that dive into cloud technologies, automation, CI/CD, and scripting to tackle real-world challenges in system management and development.
 
 💡 Currently Exploring: AWS, Docker, and Python to deepen my DevOps toolkit. I’m passionate about sharing knowledge and contributing to open-source projects that make tech accessible and efficient.
 
