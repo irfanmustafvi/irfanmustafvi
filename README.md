@@ -1,7 +1,6 @@
+👋 Hi, I’m Muhammad Irfan!
 ![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/1001x492%20Banner%20for%20GitHub.jpg)
 
-
-👋 Hi, I’m Muhammad Irfan!
 
 
 ![irfanmustafvi's Stats](https://github-readme-stats.vercel.app/api?username=irfanmustafvi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
