@@ -28,6 +28,7 @@ Let’s connect, collaborate, and build solutions together!
 - 📝 I am passionate to learn more aboute ewmerging techs.  
 - 🌐 Proud to be member of DevOps Community with [Babar Zahoor](https://babarzahoor.com/) And exploring on [YouTube](https://www.youtube.com/babarzahoor)
 - ✍️ I started my Bloging journey at [Hashnode](https://hashnode.com/@irfanmustafvi) to gearing up and share valuable insights with the global tech community.
+- 🌐 Thrilled to be member of Cloud and DevOps Community with [Ali Sohail](https://www.linkedin.com/in/alisohailit/) And be part of [Cloud Whistlers](https://www.linkedin.com/newsletters/cloud-engineer-journey-7172952781685792769/) Community.
   
 
 ## My Articles On
