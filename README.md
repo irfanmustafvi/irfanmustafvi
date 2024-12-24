@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Muhammad Irfan!</h1>
 <h3> Linux administrator | AWS Enthusiast | Aspiring DevOps Engineer | Blog Writer<h3/>
 
-![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/1001x492%20Banner%20for%20GitHub.jpg)
+![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/Untitled%20design%20(1).png)
 
 
 
