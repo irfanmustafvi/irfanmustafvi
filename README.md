@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Muhammad Irfan!</h1>
-<h3> Linux administrator | Helping Students in Career Building | AWS Enthusiast | Aspiring DevOps Engineer | Blog Writer<h3/>
+<h3> Linux administrator | Helping Students in Career Building | AWS Enthusiast | Aspiring DevOps Engineer | Tech Blog Writer <h3/>
 
 ![logo](https://github.com/irfanmustafvi/irfanmustafvi/blob/main/Untitled%20design%20(1).png)
 
